@@ -1,2 +1,4 @@
 # nvim
-Personal nvim config
+Plugins
+- Catppuccin (Color Scheme)
+- Telescope (Fuzzy Finder)
