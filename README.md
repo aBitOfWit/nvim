@@ -2,3 +2,4 @@
 Plugins
 - Catppuccin (Color Scheme)
 - Telescope (Fuzzy Finder)
+- Treesitter (Highlights)
