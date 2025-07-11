@@ -7,6 +7,6 @@
 
 -- NEO-TREE KEYBINDS
   vim.keymap.set('n', '<leader>e', ":Neotree toggle filesystem reveal left<CR>", { desc = 'Neo-Tree filesystem on Right' })
-  vim.keymap.set('n', '|', ":Neotree toggle current reveal_force_cwd<CR>", { desc = 'Neo-Tree filesystem Center' })
-  vim.keymap.set('n', '\\', ":Neotree toggle git_status reveal_force_cwd float<CR>", { desc = 'Neo-Tree Git' })
+  vim.keymap.set('n', '\\', ":Neotree toggle current reveal_force_cwd<CR>", { desc = 'Neo-Tree filesystem Center' })
+  vim.keymap.set('n', '|', ":Neotree toggle git_status reveal_force_cwd float<CR>", { desc = 'Neo-Tree Git' })
 
